@@ -134,3 +134,5 @@ Optimize the system to run fully on local machines
 **Dao N. Duy**<br>
 University of Engineering and Technology – VNU Hanoi
 
+**Nguyen T. Cong**<br>
+University of Engineering and Technology – VNU Hanoi
